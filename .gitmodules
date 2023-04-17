@@ -1,0 +1,6 @@
+[submodule "smart-parking-deep-learning"]
+	path = smart-parking-deep-learning
+	url = https://github.com/hatemhenchir/smart-parking-deep-learning.git
+[submodule "ParkApp"]
+	path = ParkApp
+	url = https://github.com/hatemhenchir/ParkApp.git
