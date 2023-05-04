@@ -16,5 +16,5 @@ To get started with Smart Parking AI, you'll need:
 - A set of cameras or other imaging devices to capture images of cars entering the parking facility
 - A server or cloud-based platform to run the machine learning algorithms
 - A database of registered and paid cars
-- The `ParkApp` submodule, which can be found at [https://github.com/hatemhenchir/ParkApp](https://github.com/hatemhenchir/ParkApp).
+- The `ParkApp` submodule , which can be found at [https://github.com/hatemhenchir/ParkApp](https://github.com/hatemhenchir/ParkApp).
 - The `smart-parking-deep-learning` submodule, which can be found at [https://github.com/hatemhenchir/smart-parking-deep-learning](https://github.com/hatemhenchir/smart-parking-deep-learning). 
